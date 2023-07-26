@@ -1,0 +1,22 @@
+{
+  "name": "SDWebImageDemo",
+  "version": "0.1.0",
+  "summary": "A short description of SDWebImageDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mervin1024/SDWebImageDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mervin1024": "yaoma@sohu-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/Mervin1024/SDWebImageDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SDWebImageDemo/Classes/**/*"
+}
